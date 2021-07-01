@@ -1,4 +1,4 @@
-# Esercizio_MaieuticalLabs
+# Esercizio Maieutical Labs
 Esercizio per posizione sviluppatore presso Maieutical Labs
 
-Requisiti: yattag
+**Requisiti**: [yattag](https://pypi.org/project/yattag/)
