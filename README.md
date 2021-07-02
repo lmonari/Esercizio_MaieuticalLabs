@@ -5,4 +5,4 @@ Esercizio per posizione sviluppatore presso Maieutical Labs
 [yattag](https://pypi.org/project/yattag/)
 
 ### Istruzioni:
-Eseguire `<main.py>` per un esempio di utilizzo del pacchetto exercise
+Eseguire `main.py` per un esempio di utilizzo del pacchetto exercise
